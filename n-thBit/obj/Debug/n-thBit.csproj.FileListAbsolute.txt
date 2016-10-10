@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\n-thBit\bin\Debug\n-thBit.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\n-thBit\bin\Debug\n-thBit.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\n-thBit\bin\Debug\n-thBit.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\n-thBit\obj\Debug\n-thBit.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\n-thBit\obj\Debug\n-thBit.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\n-thBit\obj\Debug\n-thBit.csprojResolveAssemblyReference.cache

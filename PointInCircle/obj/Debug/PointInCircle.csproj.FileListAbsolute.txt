@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\PointInCircle\bin\Debug\PointInCircle.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\PointInCircle\obj\Debug\PointInCircle.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\PointInCircle\bin\Debug\PointInCircle.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\PointInCircle\bin\Debug\PointInCircle.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\PointInCircle\obj\Debug\PointInCircle.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\PointInCircle\obj\Debug\PointInCircle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\ThirdDigit\bin\Debug\ThirdDigit.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\ThirdDigit\bin\Debug\ThirdDigit.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\ThirdDigit\obj\Debug\ThirdDigit.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\ThirdDigit\obj\Debug\ThirdDigit.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\ThirdDigit\obj\Debug\ThirdDigit.pdb

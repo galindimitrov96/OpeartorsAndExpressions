@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\3thBit\bin\Debug\3thBit.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\3thBit\bin\Debug\3thBit.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\3thBit\bin\Debug\3thBit.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\3thBit\obj\Debug\3thBit.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\3thBit\obj\Debug\3thBit.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\3thBit\obj\Debug\3thBit.pdb

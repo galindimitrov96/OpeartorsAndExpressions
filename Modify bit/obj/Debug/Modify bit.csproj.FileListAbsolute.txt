@@ -1,0 +1,5 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\Modify bit\bin\Debug\Modify bit.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\Modify bit\bin\Debug\Modify bit.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\Modify bit\bin\Debug\Modify bit.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\Modify bit\obj\Debug\Modify bit.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\Modify bit\obj\Debug\Modify bit.pdb

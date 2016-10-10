@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\PointCircleRectangle\bin\Debug\PointCircleRectangle.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\PointCircleRectangle\obj\Debug\PointCircleRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\PointCircleRectangle\obj\Debug\PointCircleRectangle.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\OpeartorsAndExpressions\PointCircleRectangle\obj\Debug\PointCircleRectangle.pdb
