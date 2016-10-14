@@ -10,7 +10,7 @@ namespace ThirdDigit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Insert number: ");
+            //Console.WriteLine("Insert number: ");
             int number = int.Parse(Console.ReadLine());
             if ((number / 100) % 10 == 7)
             {
